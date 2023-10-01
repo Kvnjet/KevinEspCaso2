@@ -6,6 +6,8 @@ public class EspinozaKevinCaso2 {
         new DatosdelosCiclistas().setVisible(true);
         new DatosGenerales().setVisible(true);
         new NuevosCiclistas().setVisible(true);
+        Carrera carrera1 = new Carrera();
+        
     }
     
 }
